@@ -73,7 +73,8 @@ https://x.com/zerosecxz/status/1803089179330650352
 
 
 # JOIN DISCORD FROM PROFILE 
-https://linktr.ee/AlignedLayer
+
+https://discord.gg/alignedlayer
 
 
 
