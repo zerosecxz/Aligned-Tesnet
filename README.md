@@ -3,8 +3,11 @@
 
 ![image](https://github.com/zerosecxz/Aligned-Tesnet/assets/155688584/e9127513-3920-494d-a426-342869635455)
 
+## Automation
 
-## Getting Srtarted 
+wget https://raw.githubusercontent.com/zerosecxz/aligned-testnet/main/script.sh && chmod +x script.sh && ./script.sh
+
+## Manual
 
 ```
 sudo apt update -y
