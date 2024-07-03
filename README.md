@@ -6,7 +6,10 @@
 ## Automation
 
 ```
-wget https://raw.githubusercontent.com/zerosecxz/Aligned-Tesnet/main/script.sh && chmod +x script.sh && ./script.sh
+# Download and run the script
+
+wget https://raw.githubusercontent.com/zerosecxz/Aligned-Tesnet/main/aligned_proof_submission.sh -O aligned_proof_submission.sh && chmod +x aligned_proof_submission.sh && ./aligned_proof_submission.sh
+
 
 ```
 
